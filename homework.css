@@ -1,0 +1,149 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+}
+header{
+    height: 70px;
+    width: 100%;
+}
+nav{
+    
+}
+.top{
+    display: flex;
+    justify-content: left;
+}
+.logo, img{
+    width: 70px;
+    height: 70px;
+    padding-left: 10px;
+}
+.top-link{
+    text-decoration: none;
+    display: flex;
+    padding-left: 30px;
+}
+.top-1{
+    background-color: rgb(0, 99, 35);
+   padding:20px ;
+   font-size: 20px;
+   text-decoration: none;
+   color: white;
+}
+.top-2{
+    margin-left: 5px;
+}
+.top-2, .top-3{
+    padding:20px ;
+   font-size: 20px;
+   text-decoration: none;
+}
+.top-2:hover{
+    background-color: rgb(0, 99, 35);
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+}
+.top-3{
+    margin-left: 5px;
+}
+.top-3:hover{
+    background-color: rgb(0, 99, 35);
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+}
+.inf{
+    background-image: url('https://devtamim.github.io/prasentation-1/media/banner.jpg');
+    height: 60vh;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.data{
+    text-align: center;
+   padding-top: 50px;
+}
+.data-1{
+    font-size: 20px;
+}
+.data-2{
+    color: white;
+}
+.data-3{
+   padding-top: 20px;
+}
+.data-4{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px 15px;
+    color: rgb(3, 57, 165);
+    text-transform: uppercase;
+}
+section{
+    text-align: center;
+}
+#data-11{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.data-5{
+    display: flex ;
+    justify-content: center;
+}
+.data-6{
+    padding: 15px;
+    text-align: center;
+}
+#data-7{
+    font-size: 70px;
+}
+.data-8{
+    font-size: 30px;
+}
+.data-9{
+    padding-bottom: 15px;
+}
+.data-10{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px 15px;
+    text-transform: uppercase;
+}
+footer{
+    background-color: rgba(65, 4, 122, 0.932);
+    color: white;
+}
+#fot{
+   text-align: center;
+   padding-top: 20px;
+
+}
+#fot-1{
+    padding: 0px 40px 40px 40px;
+    display: flex;
+}
+#fot-3{
+    padding: 17px;
+    font-size: 45px;
+}
+/* .footer-pera{
+    display: inline;
+    text-align: center;
+
+} */
+
+.fot-3{
+    display: flex;
+}
+.fot-4{
+    display: flex;
+}
+.fot-1{
+    border-right: 1px solid #fff;
+}

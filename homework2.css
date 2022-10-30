@@ -1,0 +1,190 @@
+body{
+    border: 0px;
+    margin: 0px;
+}
+header{
+    height: 69px;
+    width: 100%;
+    background-color:rgb(250, 241, 241);
+}
+nav{
+    display: flex;
+    height: 69px;
+    width: 100%;
+}
+.logo {
+    height: 80px; 
+    padding-left: 30px; 
+}
+.top-link{
+    margin: 0px;
+    border: 0px;
+    padding-top: 15px;
+}
+.link-1{
+    text-decoration: none;
+    font-size: 30px;
+    background-color: green;
+    padding: 20px 20px;
+    color: white;
+}
+.link-2{
+    text-decoration: none;
+    font-size: 30px;
+    padding-right: 5px;
+}
+.link-2:hover{
+    background-color: green;
+    padding: 20px 20px;
+    color: white;
+}
+.top-social-media{
+    font-size: 40px;
+    padding-top: 10px;
+    margin-left: 900px;
+}
+.header{
+    height: 45px;
+    width: 100%;
+    background-color: white;
+}
+.nav-1{
+    display: flex;
+    justify-content: center;
+    padding-top: 2px;
+    height: 40px;
+    width: 100%;
+    border-top: 1px solid #f9e9e9;
+    border-bottom: 2px solid #f9e9e9ee ;
+}
+.link-3{
+    text-decoration: none;
+    font-size: 25px;
+    padding: 8px 10px;
+    border: 1px solid #eee;
+}
+.link-3:hover{
+    border-top:4px solid pink ;
+}
+.body{
+    background-image: url('https://www.prologicwebdesign.com/wp-content/uploads/2015/07/Ready-Made-Applications11.jpg');
+    height: 55vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 40px;
+}
+section{
+    margin: 20px 140px 0px 140px;
+}
+.main-body-1{
+    display: flex;
+    justify-content:center;
+    font-family: 'PT Sans',sans-serif;
+    color: #655454;
+    text-align: justify;
+}
+.main-body-2{
+    display: flex;
+    justify-content:center;
+    font-family: 'PT Sans',sans-serif;
+    color: #655454;
+    text-align: justify;
+}
+#h2, #p{
+    padding-right: 36px;
+}
+#p{
+    font-size: 12px;
+}
+
+.main-body-3{
+    display: flex;
+    padding-top: 100px;
+}
+#icon{
+   display: inline;
+}
+.h2{
+   display: inline;
+   padding-left: 10px;
+   font-family: 'PT Sans',sans-serif;
+   color: #655454;
+}
+.paragraph{
+    padding-right: 436px;
+    text-align: justify;
+    font-family: 'PT Sans',sans-serif;
+    color: #655454;
+    font-size: 12px;
+}
+#icon{
+    display: flex;
+    border-top: 1px solid #f4ebeb;
+}
+#icon-1{
+    display: inline;
+    font-size: 30px;
+    padding: 5px 0px 5px 0px;
+    text-decoration: none;
+}
+.icon2{
+    display: inline;
+    margin-left: 54px;
+    text-decoration: none;
+    padding: 10px 0px 5px 0px;
+    font-size: 15px;
+}
+.icon3{
+    display: inline;
+    margin-left: 72px;
+    text-decoration: none; 
+    padding: 10px 0px 5px 0px;
+    font-size: 15px;
+}
+.icon4{
+    display: inline; 
+    margin-left: 60px;
+    text-decoration: none; 
+    padding: 10px 0px 5px 0px;
+    font-size: 15px;
+}
+.icon5{
+    display: inline; 
+    margin-left: 67px;
+    text-decoration: none;
+    padding: 10px 0px 5px 0px;
+    font-size: 15px;
+ }
+ #space{
+    padding-top:50px;
+ }
+ #space-1{
+    padding-bottom:50px ;
+ }
+
+ footer{
+    margin: 21px 140px 20px 140px;
+    background-color: rgb(241,247,253);
+    height: 290px;
+ }
+ .ftr{
+    text-align: center;
+    margin-top: 20px;
+ }
+ h1{
+    padding-top: 22px;
+ }
+ form{
+    text-align: center;
+    padding-top: 20px;
+ }
+ input{
+    padding: 5px 10px;
+ }
+ .email{
+    cursor: pointer;
+ }
+
+

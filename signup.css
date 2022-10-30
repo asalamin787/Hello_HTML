@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #eee;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-top: 200px;
+    width: 775px;
+    height: 400px;
+
+}
+
+.or{
+
+    text-transform: uppercase;
+    /* padding: 159px 30px 0px 30px; */
+    margin: 0 40px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 40%);
+    text-align: center;
+    line-height: 40px;
+    background-color: #DDDDDD;
+
+}
+.or h3{
+    font-weight: 100;
+    font-size: 13px;
+    margin: 0px;
+}
+.social{
+    font-size: 20px;
+
+}
+input{
+    font-size: 15px;
+    padding: 5px 10px;
+    width: 300px;
+    height: 37px;
+    border: none;
+    border-bottom: 1px solid #888;
+    margin-bottom: 15px;
+    color:#666;
+    letter-spacing: 1px;
+
+}
+input:focus{
+    outline:none;
+    border-bottom: 2px solid green;
+}
+.facebook{
+    
+    font-size: 20px;
+    padding: 10px 0;
+    color: #FFF;
+    background-color: rgb(50,80,142);
+    width: 270px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 15px;
+
+}
+.twitter{
+    font-size: 20px;
+    padding: 10px 0;
+    color: white;
+    background-color: rgb(85,172,238);
+    width: 270px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 15px;
+    
+}
+.google{
+    font-size: 20px;
+    padding: 10px 0;
+    color: white;
+    background-color:rgb(221,75,57);
+    text-align: center;
+    border: none;
+    width: 270px;
+    font-size: 15px;
+    
+}
+.d-flex{
+    display: flex;
+    align-items: center;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
